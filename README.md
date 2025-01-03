@@ -6,7 +6,18 @@ The application will include:
 •	An Admin Module for setting up companies and communication parameters.
 •	A User Module for visualizing, managing, and performing communication tasks.
 •	A Reporting and Analytics Module for actionable insights (optional).
-It is critical to emphasize usability, clarity, and efficient data handling.
+It is critical to emphasize usability, clarity and efficient data handling.
+
+![Image Alt](https://github.com/its-chandan16/ENTNT_Technical_Assessment-Calendar-Application-for-Communication-Tracking/blob/7b56a79639874e15427503e75f631f761a232809/ss1.png)
+
+![Image Alt]([image_url](https://github.com/its-chandan16/ENTNT_Technical_Assessment-Calendar-Application-for-Communication-Tracking/blob/7b56a79639874e15427503e75f631f761a232809/ss2.png)
+
+![Image Alt]([image_url](https://github.com/its-chandan16/ENTNT_Technical_Assessment-Calendar-Application-for-Communication-Tracking/blob/7b56a79639874e15427503e75f631f761a232809/ss3.png)
+
+![Image Alt](https://github.com/its-chandan16/ENTNT_Technical_Assessment-Calendar-Application-for-Communication-Tracking/blob/7b56a79639874e15427503e75f631f761a232809/ss4.png)
+
+![Image Alt](https://github.com/its-chandan16/ENTNT_Technical_Assessment-Calendar-Application-for-Communication-Tracking/blob/7b56a79639874e15427503e75f631f761a232809/ss5.png)
+
 
 Detailed Requirements
 Admin Module
